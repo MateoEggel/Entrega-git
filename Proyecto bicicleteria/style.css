@@ -1,0 +1,168 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+a{
+    font-family: 'Montserrat', sans-serif; color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    margin: 10px 10px 10px 10px;
+    padding: 10px 20px 10px 20px;
+border-radius: 5px;
+height: auto;
+}
+footer{
+    display: block;
+    width: 1400px;
+    height: 200px;
+    background-color: #ffee00;
+    margin: 50px 50px 50px 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+border-radius: 50px;
+}
+.textofoot{
+
+    display: inline-block ;
+    font-family: 'Montserrat', sans-serif; color: rgb(0, 0, 0);
+    margin: 10px 10px 10px 10px;
+    padding: 10px 20px 10px 20px;
+border-radius: 5px;
+height: auto; 
+
+}
+.imagenhome{
+    margin-left: 650px;
+}
+.marcas{
+    
+    margin-left: 400px;
+}
+
+.fotomarca{
+margin-left: 50px;
+}
+
+.cuadromarcas{
+    display: block;
+    width: 1400px;
+    height: 200px;
+    background-color: #2600ff;
+    margin: 50px 50px 50px 50px;
+    padding-left: 10px;
+    padding-top: 10px;
+border-radius: 50px;
+
+}
+
+.titulomarcas{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(255, 255, 255);
+    margin-left: 600px;
+    padding: 10px 20px 10px 20px;
+border-radius: 5px;
+height: auto;
+}
+
+
+main{
+   
+}
+
+header{
+    display: block;
+    width: 1400px;
+    height: 200px;
+    background-color: rgb(255, 238, 0);
+    margin: 50px 50px 50px 50px;
+    padding-left: 50px;
+    padding-top: 50px;
+border-radius: 50px;
+}
+
+.logo{
+    display: inline;
+}
+
+body{
+    background-image: url(/Img/FONDO.jpg);
+    width: 300px;
+}
+ 
+
+h1{
+
+    margin-left: 650px;
+    width: 400px;
+    color: rgb(0, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+}
+.Nosotros{
+    font-family: 'Montserrat', sans-serif;
+    display: block;
+    width: 900px ;
+    height: 200px;
+    background-color: #ffffff;
+    margin: 50px 50px 50px 350px;
+    padding-left: 50px;
+    padding-top: 10px;
+border-radius: 50px;
+
+}
+h6{
+    font-family: 'Montserrat', sans-serif;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navegacion {
+    position: relative;
+top: -50px; 
+left: 40px;
+    margin-left: 500px;
+    display: inline;
+    text-align: center;
+}
+#barnav  {
+    color: green;
+    background-color:red; 
+}
+
+.formulario{
+    font-family: 'Montserrat', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+.botones{
+    display: block;
+    width: 900px ;
+    height: 35px;
+    background-color: #2600ff;
+    margin: 50px 50px 50px 50px;
+    padding-left: 589px;
+    padding-top: 10px;
+border-radius: 50px;
+
+}
+
+.cajatabla{
+    display: block;
+    width: 400px ;
+    height: 300px;
+    background-color: #ffffff;
+    margin: 50px 50px 50px 550px;
+    padding-left: 100px;
+    padding-top: 50px;
+border-radius: 50px;
+
+}
+
+form{
+    display: block;
+    width: 400px ;
+    height: 550px;
+    background-color: #ffffff;
+    margin: 50px 50px 50px 550px;
+    padding-left: 100px;
+    padding-top: 50px;
+border-radius: 50px;
+}
